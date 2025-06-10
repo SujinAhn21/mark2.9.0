@@ -1,0 +1,11 @@
+# Performance Summary for mark2.9.0
+
+Metric,Score
+Accuracy,0.95
+ROC AUC,0.9966666666666667
+
+# Class-wise Metrics
+
+Class,Precision,Recall,F1-Score
+daily_human,1.0,0.9,0.9473684210526315
+others,0.9090909090909091,1.0,0.9523809523809523
